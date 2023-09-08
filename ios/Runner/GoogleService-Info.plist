@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>708998535834-enhc5gqdn4c0m5vdepjhvjaqpfp8h5dh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.708998535834-enhc5gqdn4c0m5vdepjhvjaqpfp8h5dh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrkONQnbfP9ZqZHJiARepXeCNT3QHR7xM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>708998535834</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mortarltd.app.vpn</string>
+	<key>PROJECT_ID</key>
+	<string>mortar-vpn-ede18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mortar-vpn-ede18.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:708998535834:ios:3fb3e684d905d196319d23</string>
+</dict>
+</plist>
